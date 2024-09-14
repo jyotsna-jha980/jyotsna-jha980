@@ -1,16 +1,15 @@
 ## Hi there 👋
 
 <!--
-**jyotsna-jha980/jyotsna-jha980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# jyotsna-jha
+### Hey am Jyotsna'
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=jyotsna-jha)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jyotsna-jha&theme=highcontrast)](https://git.io/streak-stats)
+
+
+![Stats](https://github-readme-stats-seven-phi-44.vercel.app/api?username=jyotsna-jha&show_icons=true&locale=en&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats-seven-phi-44.vercel.app/api/top-langs?username=jyotsna-jha&show_icons=true&locale=en&layout=compact&theme=highcontrast
+)]
